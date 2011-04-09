@@ -1,7 +1,23 @@
 ---
 default: hawk.mp3
+
 users:
-  Scott Silverman: hawk.mp3
+
+  #add your name, colon, sound filename
+  #Horatio Cain: yeaah.mp3
+  #email also works
+  #sunglasses@miami.us: yeaah.mp3
+  #or github username
+  #miami_codez: yeahh.mp3
+
+  T S: hawk.mp3
+
+
 projects:
+  #for project-specific sounds
+  
+  #this is the project owner
   codeforamerica:
+  
+    #this is the project
     homework_notifier: hawk.mp3
