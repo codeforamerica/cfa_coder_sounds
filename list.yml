@@ -12,13 +12,16 @@ users:
 
   jerseycoder: dsbs.mp3
   tylerstalder: chipmunk.mp3
-  buttonpresser: ICanGoAnyWhere.mp3
   
   # Alan's sounds
   Alan Palazzolo: alan-chewycry.mp3
   zzolo: alan-chewycry.mp3
   github@zzolo.org: alan-chewycry.mp3
-
+  
+  # Pete's sounds
+  Pete Fecteau: ICanGoAnyWhere.mp3
+  buttonpresser: ICanGoAnyWhere.mp3
+  pete@buttonpresser.com: ICanGoAnyWhere.mp3
 
 projects:
   #for project-specific sounds
