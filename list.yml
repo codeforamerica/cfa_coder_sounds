@@ -10,7 +10,6 @@ users:
   #or github username
   #miami_codez: yeahh.mp3
 
-  T S: hawk.mp3
   jerseycoder: dsbs.mp3
   tylerstalder: chipmunk.mp3
   
@@ -29,3 +28,4 @@ projects:
     #this is the project
     homework_notifier: hawk.mp3
     designforamerica: dsbs.mp3
+    cfa_coder_sounds: vuvuzela.mp3
