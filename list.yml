@@ -40,6 +40,11 @@ users:
   mertonium: bankloan.mp3
   John Mertens: bankloan.mp3
   john.mertens@gmail.com
+  
+  # Mjumbe's sounds
+  mjumbewu: golden_ticket.mp3
+  Mjumbe Wawatu Poe: golden_ticket.mp3
+  mjumbewu@gmail.com: golden_ticket.mp3
 
 projects:
   #for project-specific sounds
