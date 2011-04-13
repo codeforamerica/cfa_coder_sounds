@@ -35,6 +35,11 @@ users:
   michaelb@codeforamerica.org: retro.mp3
   zopemaven@gmail.com: retro.mp3
   michael@fandomhome.com: retro.mp3
+  
+  # John's sounds
+  mertonium: bankloan.mp3
+  John Mertens: bankloan.mp3
+  john.mertens@gmail.com
 
 projects:
   #for project-specific sounds
