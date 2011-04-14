@@ -47,6 +47,14 @@ users:
   mjumbewu@gmail.com: golden_ticket.mp3
   mjumbe@codeforamerica.org: golden_ticket.mp3
 
+  # Rocky's sounds
+  # Public Domain thanks to http://www.lisztonian.com/composers/Frederic+Chopin-4.html
+  rockymeza: chopin-etude_for_piano_op_10_no_12.mp3
+  Rocky Meza: chopin-etude_for_piano_op_10_no_12.mp3
+  rockymeza@gmail.com: chopin-etude_for_piano_op_10_no_12.mp3
+  rocky@codeforamerica.org: chopin-etude_for_piano_op_10_no_12.mp3
+  
+
 projects:
   #for project-specific sounds
   
