@@ -67,7 +67,8 @@ users:
   # From the Internet Archive: http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations
   # Sound processed with Aviary's online audio editor, Myna: http://aviary.com
   # http://www.aviary.com/artists/chachasikes/creations/chacha_orca
-  Chacha Sikes: chacha_orca
+  # Chacha Sikes: chacha_orca
+  chach
   chachasikes@gmail.com: chacha_orca.mp3
   chacha@codeforamerica.org: chacha_orca.mp3
 
