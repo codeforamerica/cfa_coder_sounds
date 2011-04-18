@@ -2,87 +2,37 @@
 default: hawk.mp3
 
 users:
+  # Add your name, a colon, and sound filename. For example:
+  #   Horatio Cain: yeaah.mp3
+  # Your can substitute your name with an email address:
+  #   sunglasses@miami.us: yeaah.mp3
+  # Or github username:
+  #   miami_codez: yeahh.mp3
 
-  #add your name, colon, sound filename
-  #Horatio Cain: yeaah.mp3
-  #email also works
-  #sunglasses@miami.us: yeaah.mp3
-  #or github username
-  #miami_codez: yeahh.mp3
-
-  jerseycoder: dsbs.mp3
-  tylerstalder: chipmunk.mp3
-  sferik: yes_we_can.mp3
-
-  #Dan's sounds
-  Dan Melton: mow.mp3
-  danmelton: mow.mp3
-  melton.dan@gmail.com: mow.mp3
-
-  # Alan's sounds
-  Alan Palazzolo: alan-chewycry.mp3
-  zzolo: alan-chewycry.mp3
-  github@zzolo.org: alan-chewycry.mp3
-
-  # Pete's sounds
-  # Read a book ya lazy ass
-  Pete Fecteau: ICanGoAnyWhere.mp3
-  buttonpresser: ICanGoAnyWhere.mp3
-  pete@buttonpresser.com: ICanGoAnyWhere.mp3
-
-  # Michael B's sounds
-  Michael Bernstein: shave_and_a_haircut.mp3
-  webmaven: shave_and_a_haircut.mp3
-  michaelb@codeforamerica.org: shave_and_a_haircut.mp3
-  zopemaven@gmail.com: shave_and_a_haircut.mp3
-  michael@fandomhome.com: shave_and_a_haircut.mp3
-
-  # John's sounds
-  mertonium: bankloan.mp3
-  John Mertens: bankloan.mp3
-  john.mertens@gmail.com: bankloan.mp3
-
-  # Mjumbe's sounds
-  mjumbewu: golden_ticket.mp3
-  Mjumbe Wawatu Poe: golden_ticket.mp3
-  mjumbewu@gmail.com: golden_ticket.mp3
-  mjumbe@codeforamerica.org: golden_ticket.mp3
-
-  # Rocky's sounds
-  # Public Domain thanks to http://www.lisztonian.com/composers/Frederic+Chopin-4.html
-  rockymeza: chopin-etude_for_piano_op_10_no_12.mp3
-  Rocky Meza: chopin-etude_for_piano_op_10_no_12.mp3
-  rockymeza@gmail.com: chopin-etude_for_piano_op_10_no_12.mp3
-  rocky@codeforamerica.org: chopin-etude_for_piano_op_10_no_12.mp3
-
-  # Aaron's sounds
   atogle: tos-intercom.mp3
-  Aaron Ogle: tos-intercom.mp3
-  atogle@gmail.com: tos-intercom.mp3
-  aaron@codeforamerica.org: tos-intercom.mp3
-
-  # Chach's sounds
-  # Orca whale (top predator & lives near Seattle!)
-  # http://en.wikipedia.org/wiki/Killer_whale
+  # Read a book ya lazy ass
+  buttonpresser: ICanGoAnyWhere.mp3
   # From the Internet Archive: http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations
   # Sound processed with Aviary's online audio editor, Myna: http://aviary.com
   # http://www.aviary.com/artists/chachasikes/creations/chacha_orca
-  # Chacha Sikes: chacha_orca
   chachasikes: chacha_orca.mp3
-  chachasikes@gmail.com: chacha_orca.mp3
-  chacha@codeforamerica.org: chacha_orca.mp3
-
-  #Jeremy
-  onezerojeremy: galaga.mp3
+  danmelton: mow.mp3
+  jerseycoder: dsbs.mp3
   joelmahoney: laws_of_physics.mp3
+  mertonium: bankloan.mp3
+  mjumbewu: golden_ticket.mp3
+  onezerojeremy: galaga.mp3
+  # Public Domain thanks to http://www.lisztonian.com/composers/Frederic+Chopin-4.html
+  rockymeza: chopin-etude_for_piano_op_10_no_12.mp3
+  sferik: yes_we_can.mp3
+  tylerstalder: chipmunk.mp3
+  webmaven: shave_and_a_haircut.mp3
+  zzolo: alan-chewycry.mp3
 
 projects:
-  #for project-specific sounds
-
-  #this is the project owner
+  # For project-specific sounds, specify the GitHub project owner
   codeforamerica:
-
-    #this is the project
+    # This is the project name
     homework_notifier: hawk.mp3
     designforamerica: dsbs.mp3
     cfa_coder_sounds: vuvuzela.mp3
