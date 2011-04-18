@@ -16,6 +16,6 @@ Conventions
 * File names should be all lower case and snake case
 * In the `list.yml` file, under `users:`, add a link in the format:
 
-      github_user_name: file_name.mp3
+        github_user_name: file_name.mp3
   you can substitue `github_user_name` with a name or email address (as long as
   it matches your `~/.gitconfig`).
