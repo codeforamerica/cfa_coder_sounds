@@ -12,35 +12,36 @@ users:
 
   jerseycoder: dsbs.mp3
   tylerstalder: chipmunk.mp3
+  sferik: yes_we_can.mp3
 
   #Dan's sounds
   Dan Melton: mow.mp3
   danmelton: mow.mp3
   melton.dan@gmail.com: mow.mp3
-  
+
   # Alan's sounds
   Alan Palazzolo: alan-chewycry.mp3
   zzolo: alan-chewycry.mp3
   github@zzolo.org: alan-chewycry.mp3
-  
+
   # Pete's sounds
   # Read a book ya lazy ass
   Pete Fecteau: ICanGoAnyWhere.mp3
   buttonpresser: ICanGoAnyWhere.mp3
   pete@buttonpresser.com: ICanGoAnyWhere.mp3
-  
+
   # Michael B's sounds
   Michael Bernstein: shave_and_a_haircut.mp3
   webmaven: shave_and_a_haircut.mp3
   michaelb@codeforamerica.org: shave_and_a_haircut.mp3
   zopemaven@gmail.com: shave_and_a_haircut.mp3
   michael@fandomhome.com: shave_and_a_haircut.mp3
-  
+
   # John's sounds
   mertonium: bankloan.mp3
   John Mertens: bankloan.mp3
   john.mertens@gmail.com: bankloan.mp3
-  
+
   # Mjumbe's sounds
   mjumbewu: golden_ticket.mp3
   Mjumbe Wawatu Poe: golden_ticket.mp3
@@ -70,17 +71,17 @@ users:
   chachasikes: chacha_orca.mp3
   chachasikes@gmail.com: chacha_orca.mp3
   chacha@codeforamerica.org: chacha_orca.mp3
-  
+
   #Jeremy
   onezerojeremy: galaga.mp3
-
   joelmahoney: laws_of_physics.mp3
+
 projects:
   #for project-specific sounds
-  
+
   #this is the project owner
   codeforamerica:
-  
+
     #this is the project
     homework_notifier: hawk.mp3
     designforamerica: dsbs.mp3
