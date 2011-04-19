@@ -30,6 +30,7 @@ users:
   tylerstalder: chipmunk.mp3
   webmaven: shave_and_a_haircut.mp3
   zzolo: chewy_cry.mp3
+  scottsil: one_more_thing_boom.mp3
 
 projects:
   # For project-specific sounds, you need to specify the GitHub project owner
