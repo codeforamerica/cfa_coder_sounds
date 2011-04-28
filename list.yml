@@ -35,7 +35,7 @@ users:
   mariejomr: mjsound.mp3
 
 projects:
-  # For project-specific sounds, you need to specify the GitHub project owner
+  # For project-specific sounds you need to specify the GitHub project owner
   codeforamerica:
     # And the project name
     homework_notifier: hawk.mp3
