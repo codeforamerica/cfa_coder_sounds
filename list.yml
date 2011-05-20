@@ -2,65 +2,46 @@
 default: hawk.mp3
 
 users:
+  # Add your GitHub user name, a colon, and the name of the sound file.
+  # For example:
+  #   github_user_name: file_name.mp3
+  # Your can substitute your GitHub user name with your name:
+  #   Horatio Cain: file_name.mp3
+  # Or email address:
+  #   sunglasses@miami.us: file_name.mp3
 
-  #add your name, colon, sound filename
-  #Horatio Cain: yeaah.mp3
-  #email also works
-  #sunglasses@miami.us: yeaah.mp3
-  #or github username
-  #miami_codez: yeahh.mp3
-
-  jerseycoder: dsbs.mp3
-  tylerstalder: chipmunk.mp3
-
-  #Dan's sounds
-  Dan Melton: mow.mp3
-  danmelton: mow.mp3
-  melton.dan@gmail.com: mow.mp3
-  
-  # Alan's sounds
-  Alan Palazzolo: alan-chewycry.mp3
-  zzolo: alan-chewycry.mp3
-  github@zzolo.org: alan-chewycry.mp3
-  
-  # Pete's sounds
+  atogle: megaman2_boss.mp3
   # Read a book ya lazy ass
-  Pete Fecteau: ICanGoAnyWhere.mp3
-  buttonpresser: ICanGoAnyWhere.mp3
-  pete@buttonpresser.com: ICanGoAnyWhere.mp3
-  
-  # Michael B's sounds
-  Michael Bernstein: shave_and_a_haircut.mp3
-  webmaven: shave_and_a_haircut.mp3
-  michaelb@codeforamerica.org: shave_and_a_haircut.mp3
-  zopemaven@gmail.com: shave_and_a_haircut.mp3
-  michael@fandomhome.com: shave_and_a_haircut.mp3
-  
-  # Joel's sounds
-  joelmahoney: HalfBrick.mp3
-  Joel Mahoney: HalfBrick.mp3
-  joelmahoney@gmail.com: HalfBrick.mp3
-  joel@codeforamerica.org: HalfBrick.mp3
-  
-  # John's sounds
-  mertonium: bankloan.mp3
-  John Mertens: bankloan.mp3
-  john.mertens@gmail.com: bankloan.mp3
-  
-  # Mjumbe's sounds
+  Buttonpresser: i_can_go_anywhere.mp3
+  # From the Internet Archive: http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations
+  # Sound processed with Aviary's online audio editor, Myna: http://aviary.com
+  # http://www.aviary.com/artists/chachasikes/creations/chacha_orca
+  chachasikes: orca.mp3
+  danmelton: mow.mp3
+  jerseycoder: dsbs.mp3
+  maxogden: meoww.mp3
+  mertonium: Kobe.mp3
   mjumbewu: golden_ticket.mp3
-  Mjumbe Wawatu Poe: golden_ticket.mp3
-  mjumbewu@gmail.com: golden_ticket.mp3
-  mjumbe@codeforamerica.org: golden_ticket.mp3
-
+  onezerojeremy: finnshair.mp3
+  aliblack: blackpanties.mp3
+  # Public Domains thanks to http://www.lisztonian.com/composers/Frederic+Chopin-4.html
+  rockymeza: etude_for_piano_op_10_no_12.mp3
+  ryanatwork: going_to_drop_a_deuce.mp3
+  sferik: yes_we_can.mp3
+  tylerstalder: chipmunk.mp3
+  webmaven: shave_and_a_haircut.mp3
+  zzolo: chewy_cry.mp3
+  scottsil: boom3.mp3
+  mariejomr: mjsound.mp3
+  kmacedo: supermario.mp3
+  T S: zim_knobs.mp3
+  dylanbathurst: sad_trombone.mp3
 
 projects:
-  #for project-specific sounds
-  
-  #this is the project owner
+  # For project-specific sounds you need to specify the GitHub project owner
   codeforamerica:
-  
-    #this is the project
+    # And the project name
     homework_notifier: hawk.mp3
     designforamerica: dsbs.mp3
     cfa_coder_sounds: vuvuzela.mp3
+    muralapp: chipmunk.mp3
