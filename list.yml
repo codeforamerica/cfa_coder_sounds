@@ -36,6 +36,12 @@ users:
   zopemaven@gmail.com: shave_and_a_haircut.mp3
   michael@fandomhome.com: shave_and_a_haircut.mp3
   
+  # Joel's sounds
+  joelmahoney: HalfBrick.mp3
+  Joel Mahoney: HalfBrick.mp3
+  joelmahoney@gmail.com: HalfBrick.mp3
+  joel@codeforamerica.org: HalfBrick.mp3
+  
   # John's sounds
   mertonium: bankloan.mp3
   John Mertens: bankloan.mp3
@@ -46,6 +52,7 @@ users:
   Mjumbe Wawatu Poe: golden_ticket.mp3
   mjumbewu@gmail.com: golden_ticket.mp3
   mjumbe@codeforamerica.org: golden_ticket.mp3
+
 
 projects:
   #for project-specific sounds
