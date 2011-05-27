@@ -19,9 +19,9 @@ users:
   chachasikes: orca.mp3
   danmelton: mow.mp3
   jerseycoder: dsbs.mp3
-  joelmahoney: laws_of_physics.mp3
-  maxogden: meoww.mp3
-  mertonium: Kobe.mp3
+  mertonium: excellent.mp3
+  maxogden: marimbro.mp3
+  joelmahoney: bricks.mp3
   mjumbewu: golden_ticket.mp3
   onezerojeremy: finnshair.mp3
   aliblack: blackpanties.mp3
@@ -36,6 +36,7 @@ users:
   mariejomr: mjsound.mp3
   kmacedo: supermario.mp3
   T S: zim_knobs.mp3
+  dylanbathurst: sad_trombone.mp3
 
 projects:
   # For project-specific sounds you need to specify the GitHub project owner

@@ -19,3 +19,21 @@ Conventions
         github_user_name: file_name.mp3
   you can substitue `github_user_name` with a name or email address (as long as
   it matches your `~/.gitconfig`).
+
+
+                   ,
+                  / \,,_  .'|
+               ,{{| /}}}}/_.'
+              }}}}` '{{'  '.
+            {{{{{    _   ;, \
+         ,}}}}}}    /o`\  ` ;)
+        {{{{{{   /           (
+        }}}}}}   |            \
+       {{{{{{{{   \            \
+       }}}}}}}}}   '.__      _  |
+       {{{{{{{{       /`._  (_\ /
+        }}}}}}'      |    //___/
+        `{{{{`       |     '--'
+         }}}`
+
+
