@@ -21,20 +21,20 @@ Conventions
   it matches your `~/.gitconfig`).
 
 
-                   ,
-                  / \,,_  .'|
-               ,{{| /}}}}/_.'
-              }}}}` '{{'  '.
-            {{{{{    _   ;, \
-         ,}}}}}}    /o`\  ` ;)
-        {{{{{{   /           (
-        }}}}}}   |            \
-       {{{{{{{{   \            \
-       }}}}}}}}}   '.__      _  |
-       {{{{{{{{       /`._  (_\ /
-        }}}}}}'      |    //___/
-        `{{{{`       |     '--'
-         }}}`
+                    ,
+                   / \,,_  .'|
+                ,{{| /}}}}/_.'
+               }}}}` '{{'  '.
+             {{{{{    _   ;, \
+          ,}}}}}}    /o`\  ` ;)
+         {{{{{{   /           (
+         }}}}}}   |            \
+        {{{{{{{{   \            \
+        }}}}}}}}}   '.__      _  |
+        {{{{{{{{       /`._  (_\ /
+         }}}}}}'      |    //___/
+         `{{{{`       |     '--'
+          }}}`
 
 
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/cfa_coder_sounds.png)](http://stats.codeforamerica.org/projects/cfa_coder_sounds)
