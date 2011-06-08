@@ -11,44 +11,35 @@ users:
   #   sunglasses@miami.us: file_name.mp3
 
   #what happened to the alphabetical order?
-  anemani: formynexttrick.mp3
-  atogle: megaman2_boss.mp3
-  baileyspace: picard.mp3
-  Buttonpresser: heypeterman.mp3
-  # From the Internet Archive: http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations
-  # Sound processed with Aviary's online audio editor, Myna: http://aviary.com
-  # http://www.aviary.com/artists/chachasikes/creations/chacha_orca
-  blakeshall: intheair.mp3
-  chachasikes: orca.mp3
-  danmelton: mow.mp3
-  jerseycoder: dsbs.mp3
-  linh8u: smb_1-up.mp3
-  mertonium: excellent.mp3
-  maxogden: marimbro.mp3
-  mlevans: myhorncanpiercethesky.mp3
-  justinstoller: sad_trombone.mp3
-  joelmahoney: bricks.mp3
-  mjumbewu: golden_ticket.mp3
-  nolastan: yeah.mp3
-  onezerojeremy: driverwinner.mp3
+
   aliblack: blackpanties.mp3
+  atogle: megaman2_boss.mp3
+  Buttonpresser: heypeterman.mp3
+  # From the Internet Archive: http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations 
+  # Sound processed with Aviary's online audio editor, Myna: http://aviary.com 
+  # http://www.aviary.com/artists/chachasikes/creations/chacha_orca
+  chachasikes: orca.mp3 
+  danmelton: mow.mp3
+  dylanbathurst: sad_trombone.mp3
+  jerseycoder: dsbs.mp3
+  joelmahoney: bricks.mp3
+  kmacedo: supermario.mp3
+  mariejomr: mjsound.mp3
+  maxogden: marimbro.mp3
+  mertonium: excellent.mp3
+  mjumbewu: golden_ticket.mp3
+  mlevans: myhorncanpiercethesky.mp3
+  nouyang: bank_loan.mp3
+  onezerojeremy: driverwinner.mp3
   # Public Domains thanks to http://www.lisztonian.com/composers/Frederic+Chopin-4.html
-  rockymeza: etude_for_piano_op_10_no_12.mp3
+  rockymeza: etude_for_piano_op_10_no_12.mp3 
   ryanatwork: thanksoldman.mp3
+  scottsil: boom3.mp3
   sferik: yes_we_can.mp3
-  redcap3000:excellent.mp3
+  T S: zim_knobs.mp3
   tylerstalder: chipmunk.mp3
   webmaven: shave_and_a_haircut.mp3
   zzolo: chewy_cry.mp3
-  zachwill: good_news_everyone.mp3
-  scottsil: boom3.mp3
-  mariejomr: mjsound.mp3
-  kmacedo: supermario.mp3
-  T S: zim_knobs.mp3
-  dylanbathurst: sad_trombone.mp3
-  aldeka: i_am_a_tree.mp3
-  nouyang: test.mp3
-
 projects:
   # For project-specific sounds you need to specify the GitHub project owner
   codeforamerica:
