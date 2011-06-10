@@ -2,11 +2,9 @@ Code for America Coder Sounds
 =============================
 Every time someone at Code for America pushes a change to GitHub, we play a
 sound over the office speakers. This repository allows you to customize your
-sound by adding an [audio file][sounds] (please keep it under 5 seconds) and
-editing a [configuration file][config].
+sound by adding an [MP3 file][sounds] (please keep it under 5 seconds) titled as your username.
 
 [sounds]: https://github.com/codeforamerica/cfa_coder_sounds/tree/master/sounds
-[config]: https://github.com/codeforamerica/cfa_coder_sounds/blob/master/list.yml
 
 Conventions
 ===========
