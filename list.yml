@@ -50,11 +50,11 @@
     zzolo: chewy_cry.mp3
     timtimedin: flighthumans.mp3
 
-    projects:
-      # For project-specific sounds you need to specify the GitHub project owner
-      codeforamerica:
-        # And the project name
-        cfa_coder_sounds: vuvuzela.mp3
-        designforamerica: dsbs.mp3
-        homework_notifier: hawk.mp3
-        muralapp: chipmunk.mp3
+  projects:
+    # For project-specific sounds you need to specify the GitHub project owner
+    codeforamerica:
+      # And the project name
+      cfa_coder_sounds: vuvuzela.mp3
+      designforamerica: dsbs.mp3
+      homework_notifier: hawk.mp3
+      muralapp: chipmunk.mp3
