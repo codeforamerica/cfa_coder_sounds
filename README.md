@@ -39,6 +39,7 @@ Conventions
 
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/cfa_coder_sounds.png)](http://stats.codeforamerica.org/projects/cfa_coder_sounds)
 
+```
                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~
                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,8 +103,9 @@ Conventions
                                 77$$MM$M:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                     7$MMO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                        ++N:~~~~~~~~~~~~~~~~~~~~~~
+```
 
-
+```
                               _,add8ba,
                             ,d888888888b,
                            d8888888888888b                        _,ad8ba,_
@@ -147,6 +149,6 @@ Y88888b         `888888888b,      `""""^                `Y8888888P'       d888I
                                 "Y8888888888888888P     `""""^
                                   `"YY88888888888P'
                                        ^""""""""'
-
+```
 
 Made by badgers and pandas at [Code for America](http://codeforamerica.org)
