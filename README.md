@@ -12,12 +12,12 @@ Conventions
 ===========
 
 * Audio files should be MP3 formatted
-* Sounds should be no longer that 5 seconds
+* Sounds should be no longer than 5 seconds
 * File names should be all lower case and snake case
 * In the `list.yml` file, under `users:`, add a link in the format:
 
         github_user_name: file_name.mp3
-  you can substitue `github_user_name` with a name or email address (as long as
+  you can substitute `github_user_name` with a name or email address (as long as
   it matches your `~/.gitconfig`).
 
 
