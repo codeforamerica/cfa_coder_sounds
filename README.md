@@ -152,4 +152,4 @@ Y88888b         `888888888b,      `""""^                `Y8888888P'       d888I
                                        ^""""""""'
 ```
 
-Proudly made by badgers and pandas at [Code for America](http://codeforamerica.org)
+Proudly made by badgers and pandas at [Code for America](http://codeforamerica.org).
