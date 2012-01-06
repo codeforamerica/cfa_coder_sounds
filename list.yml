@@ -2,7 +2,7 @@
   default: hawk.mp3
 
   users:
-    # Add your GitHub user name, a colon, and the name of the sound file.
+    # Add your GitHub user name, a colon, and the name of the sound file. 
     # For example:
     #   github_user_name: file_name.mp3
     # Your can substitute your GitHub user name with your name:
@@ -36,7 +36,7 @@
     kmacedo: supermario.mp3
     kmcurry: dub.mp3
     linh8u: failhorn.mp3
-	mapmeld: nick_williamtell.mp3
+    mapmeld: nick_williamtell.mp3
     mariejomr: mjsound.mp3
     maxogden: marimbro.mp3
     mertonium: gob-comeon.mp3
@@ -72,6 +72,7 @@
     eddietejeda: thenextstop.mp3
     hampelm: hampelm.mp3
     Prashant Singh: abedcool.mp3
+    boundsj: i_drink_your_milkshake.mp3
 
   projects:
     # For project-specific sounds you need to specify the GitHub project owner
