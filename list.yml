@@ -3,7 +3,7 @@
 
   users:
     # Add your GitHub user name, a colon, and the name of the sound file. 
-    # For example:
+    # For example: 
     #   github_user_name: file_name.mp3
     # Your can substitute your GitHub user name with your name:
     #   "Horatio Cain": file_name.mp3
