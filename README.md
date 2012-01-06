@@ -3,7 +3,7 @@ Code for America Coder Sounds
 Every time someone at Code for America pushes a change to GitHub, we play a
 sound over the office speakers. This repository allows you to customize your
 sound by adding an [audio file][sounds] (please keep it under 5 seconds) and
-editing a [configuration file][config].
+editing a [configuration file][config]..
 
 [sounds]: https://github.com/codeforamerica/cfa_coder_sounds/tree/master/sounds
 [config]: https://github.com/codeforamerica/cfa_coder_sounds/blob/master/list.yml
@@ -17,7 +17,7 @@ Conventions
 * In the `list.yml` file, under `users:`, add a link in the format:
 
         github_user_name: file_name.mp3
-  you can substitute `github_user_name` with a name or email address (as long as
+  You can substitute `github_user_name` with a name or email address (as long as
   it matches your `~/.gitconfig`).
 
 
@@ -36,10 +36,11 @@ Conventions
          `{{{{`       |     '--'
           }}}`
 
+  
 
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/cfa_coder_sounds.png)](http://stats.codeforamerica.org/projects/cfa_coder_sounds)
 
-```
+
                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~
                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,9 +104,9 @@ Conventions
                                 77$$MM$M:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                     7$MMO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                        ++N:~~~~~~~~~~~~~~~~~~~~~~
-```
+````
 
-```
+````
                               _,add8ba,
                             ,d888888888b,
                            d8888888888888b                        _,ad8ba,_
@@ -151,4 +152,4 @@ Y88888b         `888888888b,      `""""^                `Y8888888P'       d888I
                                        ^""""""""'
 ```
 
-Made by badgers and pandas at [Code for America](http://codeforamerica.org)
+Proudly made by badgers and pandas at [Code for America](http://codeforamerica.org).

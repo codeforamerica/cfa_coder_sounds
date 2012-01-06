@@ -19,7 +19,8 @@
     bensheldon: bad_apples.mp3
     blakeshall: intheair.mp3
     Buttonpresser: heypeterman.mp3
-    # From the Internet Archive: http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations
+    # From the Internet Archive: 
+    # http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations
     # Sound processed with Aviary's online audio editor, Myna: http://aviary.com
     # http://www.aviary.com/artists/chachasikes/creations/chacha_orca
     chachasikes: orca.mp3
@@ -35,6 +36,7 @@
     kmacedo: supermario.mp3
     kmcurry: dub.mp3
     linh8u: failhorn.mp3
+    mapmeld: nick_williamtell.mp3
     mariejomr: mjsound.mp3
     maxogden: marimbro.mp3
     mertonium: gob-comeon.mp3
@@ -60,12 +62,16 @@
     jmadans: HermanCain.mp3
     jllord: doink-doink.mp3
     arouault: life_aquatic.mp3
-    tamarashopsin:keystone_shopsin.mp3
+    TamaraShopsin: keystone_shopsin.mp3
     yuletide: vassago.mp3
     # ff_victory.mp3  from http://www.vgmusic.com/
     dianapanda: ff_victory.mp3
     mishmosh: mariogrow.mp3
     unruthless: cowboy_1.mp3
+    tinio: zelda.mp3
+    eddietejeda: thenextstop.mp3
+    hampelm: hampelm.mp3
+    Prashant Singh: abedcool.mp3
 
   projects:
     # For project-specific sounds you need to specify the GitHub project owner
