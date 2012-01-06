@@ -2,8 +2,8 @@
   default: hawk.mp3
 
   users:
-    # Add your GitHub user name, a colon, and the name of the sound file. 
-    # For example: 
+    # Add your GitHub user name, a colon, and the name of the sound file.
+    # For example:
     #   github_user_name: file_name.mp3
     # Your can substitute your GitHub user name with your name:
     #   "Horatio Cain": file_name.mp3
@@ -19,7 +19,7 @@
     bensheldon: bad_apples.mp3
     blakeshall: intheair.mp3
     Buttonpresser: heypeterman.mp3
-    # From the Internet Archive: 
+    # From the Internet Archive:
     # http://www.archive.org/details/KillerWhaleorcinusOrcaSoundsVocalizations
     # Sound processed with Aviary's online audio editor, Myna: http://aviary.com
     # http://www.aviary.com/artists/chachasikes/creations/chacha_orca
@@ -77,7 +77,7 @@
     joemerante: sirduke_clip.mp3
     emilyville: emilysong.mp3
     alexpandel: sneakymom.mp3
-    
+
   projects:
     # For project-specific sounds you need to specify the GitHub project owner
     codeforamerica:
