@@ -46,7 +46,7 @@ If you push changes and hear the default foghorn instead of your sound, ensure t
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/cfa_coder_sounds.png)](http://stats.codeforamerica.org/projects/cfa_coder_sounds)
 
 
-````
+```
                               _,add8ba,
                             ,d888888888b,
                            d8888888888888b                        _,ad8ba,_
