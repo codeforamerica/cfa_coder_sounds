@@ -4,7 +4,7 @@
   users:
     # Add your GitHub user name, a colon, and the name of the sound file.
     # For example:
-    #   github_user_name: file_name.mp3 
+    #   github_user_name: file_name.mp3
     # Your can substitute your GitHub user name with your name:
     #   "Horatio Cain": file_name.mp3
     # Or email address:
@@ -65,7 +65,7 @@
     mattlewissf: zoidberg.mp3
     # Public Domains thanks to http://www.lisztonian.com/composers/Frederic+Chopin-4.html
     rockymeza: etude_for_piano_op_10_no_12.mp3
-    ryanatwork: thanksoldman.mp3
+    ryanatwork: USA-USA.mp3
     scottsil: boom3.mp3
     sferik: yes_we_can.mp3
     snajmi: knightrider.mp3
