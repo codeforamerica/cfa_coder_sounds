@@ -11,7 +11,7 @@ editing a [configuration file][config].
 Conventions
 ===========
 
-* Audio files should be MP3 formatted
+* Audio files should be formatted as an MP3
 * Sounds should be no longer than 5 seconds
 * File names should be all lower case and snake case
 * In the `list.yml` file, under `users:`, add a link in the format:
