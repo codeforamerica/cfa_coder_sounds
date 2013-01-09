@@ -10,14 +10,15 @@
     # Or email address:
     #
     #   sunglasses@miami.us: file_name.mp3
-    akit: The-Price-is-Right-losing-horn.mp3
     ahhrrr: seinfeld.mp3
+    akit: The-Price-is-Right-losing-horn.mp3
     aldeka: heypeterman.mp3
     alexpandel: sneakymom.mp3
     aliblack: blackpanties.mp3
-    andyhull: toolstalent.mp3
     amirbey: ATribeCalledQuest-OhMyGod.mp3
+    andyhull: toolstalent.mp3
     anemani: abhi.mp3
+    annerynearson: Rhino.mp3
     anselmbradford: fruitbat.mp3
     arielcharney: good_bad_ugly.mp3
     arouault: life_aquatic.mp3
@@ -37,52 +38,58 @@
     eddietejeda: thenextstop.mp3
     ellereider: LR.mp3
     emilyville: emilysong.mp3
+    ezoehunt: i_made_this.mp3
+    forestwizard: carelesswhisper.mp3
     gangleton: dwarf-minke.mp3
     hale: hale.mp3
     hampelm: oregon.mp3
+    hannahyoung: Teach_Me_How_To_Dougie.mp3
+    jcody: headshot.mp3
     jerseycoder: dsbs.mp3
     jimcraner: shadyguy2.mp3
-    jcody: headshot.mp3
     jllord: doink-doink.mp3
     jmadans: HermanCain.mp3
-    joemerante: sirduke_clip.mp3
     joelmahoney: bricks.mp3
+    joemerante: sirduke_clip.mp3
     justinstoller: sad_trombone.mp3
     kmacedo: supermario.mp3
     kmcurry: honey-boo-boo.mp3
-    mheadd: chant.mp3
+    ladyson: lion_roar.mp3
     linh8u: failhorn.mp3
+    lippytak: elmo.mp3
     louh: provocative.mp3
     mapmeld: nick_williamtell.mp3
     mariejomr: mjsound.mp3
-    forestwizard: carelesswhisper.mp3
+    mattlewissf: zoidberg.mp3
     mertonium: gob-comeon.mp3
+    mheadd: chant.mp3
     mishmosh: mariogrow.mp3
     mjumbewu: golden_ticket.mp3
     mlevans: git_push.mp3
     monfresh: howdoyousay.mp3
+    Mr0grog: kookaberra.mp3
     nolastan: RandyMarsh.mp3
     nouyang: helicohexrawr.mp3
-    onezerojeremy: driverwinner.mp3
     ondrae: daaaamn.mp3
+    onezerojeremy: driverwinner.mp3
     pahlkadot: whistle.m4r
     prashtx: never_gonna_dance.mp3
-    mattlewissf: zoidberg.mp3
     rcackerman: thrift_shop.mp3
     rclosner: bump_and_grind.mp3
     rduecyg: macklemore.mp3
     richaagarwal: peanut_butter_jelly_time.mp3
     RobDavis: arnold_tumor.mp3
-    rockymeza: etude_for_piano_op_10_no_12.mp3
     robotmongol: lok.mp3
+    rockymeza: etude_for_piano_op_10_no_12.mp3
     ryanatwork: USA-USA.mp3
     samfoy: wasntme.mp3
     scottsil: boom3.mp3
     sferik: yes_we_can.mp3
     shaunak: shaunak.mp3
+    sheilabapat: Ludacris_Money_Maker.mp3
+    snajmi: knightrider.mp3
     spara: $0$.mp3
     ssfinney: lightsaber_ignites.mp3
-    snajmi: knightrider.mp3
     TamaraShopsin: keystone_shopsin.mp3
     timtimedin: flighthumans.mp3
     tinio: gangnam_style_coder_sound.mp3
@@ -94,13 +101,6 @@
     yuletide: vassago.mp3
     zachwill: inception.mp3
     zzolo: chewy_cry.mp3
-    ezoehunt: i_made_this.mp3
-    Mr0grog: kookaberra.mp3
-    sheilabapat: Ludacris_Money_Maker.mp3
-    annerynearson: Rhino.mp3
-    hannahyoung: Teach_Me_How_To_Dougie.mp3
-    ladyson: lion_roar.mp3
-    lippytak: elmo.mp3
 
   projects:
     # For project-specific sounds you need to specify the GitHub project owner
