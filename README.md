@@ -25,6 +25,9 @@ Troubleshooting
 
 If you push changes and hear the default foghorn instead of your sound, ensure the email address in your local .gitconfig (or Github.app) matches the email of your Github account.
 
+If you push changes and don't hear a sound, make sure your GitHub account includes your CfA email address (Go to Edit Profile > Emails).
+
+
 
                     ,
                    / \,,_  .'|
@@ -158,3 +161,5 @@ Y88888b         `888888888b,      `""""^                `Y8888888P'       d888I
                                 77$$MM$M:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                     7$MMO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                        ++N:~~~~~~~~~~~~~~~~~~~~~~~
+
+                                       
